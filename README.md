@@ -1,7 +1,6 @@
-- 👋 Hello people, My name is Arnav Katyayan. 
-- 🌱 I am currently completeing my graduation in Electronics and ELectrical Engineering. 
-- 👀 My major area of interest lies in Data Science and Information Security.
-- 💞️ To be more secific, I work with Data Analysis and Visualization tools and techniques. I have also worked in the field of ML and DL models and algorithms.
-      I have a brief working experience in the field of Cyber and Data Security as well.
-      I hope to collaborate on these fields of work..
-- ✌Peace
+Greetings Community,
+I am an Engineer under construction working with Data Science and Information Security. 
+I am passionate about working with data, cause it makes feel like I am a detective - A Data Detective.
+I have really bad sense for color choices but really good analytical skills. 
+I hope to work and collaborate with the most wonderful minds of this community. 
+Peace 🕊️
